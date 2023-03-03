@@ -3,17 +3,27 @@ project:
 
 website:
   title: "ekhotone"
-  favicon: ekhotone_orb.png
+  favicon: objects/ekhotone_orb.png
   navbar:
+    title: false
+    logo: objects/ekhotone_horizontal_black.png
     right:
-      - about.qmd
+      - text: Articles
+        href: articles.qmd
+
+  page-footer: 
+    left:
+      - text: À propos de ce blog...
+        href: about.qmd
+    right: 
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/lucasvoirin/
+      - icon: twitter 
+        href: https://twitter.com/lucas_voirin
+      
 format:
   html:
-    theme: cosmo
+    theme: theme.scss
     css: styles.css
 
 editor: visual

@@ -1,12 +1,15 @@
----
-title: "ekhotone"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
----
+![](objects/ekhotone_horizontal_black.png){fig-align="center" width="506"}
+
+> `> "Eh ! C'est complétement vide ici !"`
+>
+> `"C'est vrai qu'il n'y a pas grand chose pour l'instant, mais ça va changer."`
+>
+> `> "Ah oui ?!"`
+>
+> `"Bientôt ce site va devenir un blog de science !"`
+>
+> `> "Super !"`
+>
+> `"Alors repasse un peu plus tard ! ;)"`
+>
+> `> "C'est d'accord ! À bientôt !"`

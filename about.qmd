@@ -1,19 +1,16 @@
 ---
-title: "About"
-image: profile.jpg
+title: "À propos de ce blog..."
+image: objects/lv.jpg
 about:
   template: jolla
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://twitter.com/lucas_voirin/
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://linkedin.com/in/lucasvoirin/
     - icon: github
       text: Github
-      href: https://github.com
-
+      href: https://github.com/lucasvoirin/
 ---
-
-About this blog
