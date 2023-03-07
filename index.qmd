@@ -1,6 +1,6 @@
 ![](objects/ekhotone_horizontal_black.png){fig-align="center" width="506"}
 
-> `> "Eh ! C'est complétement vide ici !"`
+> `> "Eh ! C'est complètement vide ici !"`
 >
 > `"C'est vrai qu'il n'y a pas grand chose pour l'instant, mais ça va changer."`
 >
