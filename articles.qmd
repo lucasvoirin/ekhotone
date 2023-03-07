@@ -1,6 +1,6 @@
 ---
 listing:
-  contents: posts
+  contents: articles
   sort: "date desc"
   type: default
   categories: true
@@ -8,6 +8,10 @@ listing:
   filter-ui: false
 page-layout: full
 title-block-banner: false
+language: 
+  listing-page-field-categories: Catégories
+  listing-page-category-all: Toutes 
+date-format: "DD/MM/YYYY"
 ---
 
 # Articles

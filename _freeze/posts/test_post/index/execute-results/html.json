@@ -1,0 +1,14 @@
+{
+  "hash": "b29b1e7e69225cf6584f46a6165571f8",
+  "result": {
+    "markdown": "---\ntitle: \"Premier article\"\ndate: \"2023-03-06\"\ncategories: [nouveautés, code, analyse]\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

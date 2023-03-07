@@ -20,11 +20,23 @@ website:
         href: https://github.com/lucasvoirin/
       - icon: twitter 
         href: https://twitter.com/lucas_voirin
+        
+  twitter-card:
+    title: ekhotone
+    creator: "@lucas_voirin"
+    image: objects/ekhotone_social.png
       
 format:
   html:
     theme: theme.scss
     css: styles.css
+    
+language:
+  search-detached-cancel-button-title: "Annuler"
+  search: "Rechercher"
+  search-matching-documents-text: "résultat(s)"
+  search-no-results-text: "Pas de résultat"
+  search-submit-button-title: "Soumettre"
 
 editor: visual
 

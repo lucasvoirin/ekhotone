@@ -1,0 +1,26 @@
+# options specified here will apply to all posts in this folder
+
+# freeze computational output
+# (see https://quarto.org/docs/projects/code-execution.html#freeze)
+freeze: true
+
+# Enable banner style title blocks
+title-block-banner: false
+
+# Author name of all blog posts
+author: 'Lucas'
+
+# Language options
+language:
+  title-block-published: "Publié le" 
+  title-block-author-single: "Auteur"
+  section-title-references: "Références"
+  
+# Date format
+date-format: "DD/MM/YYYY"
+
+# Comments settings
+comments:
+    giscus:
+      repo: lucasvoirin/ekhotone
+      language: fr

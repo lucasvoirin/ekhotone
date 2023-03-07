@@ -7,10 +7,9 @@ about:
     - icon: twitter
       text: Twitter
       href: https://twitter.com/lucas_voirin/
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com/in/lucasvoirin/
     - icon: github
       text: Github
       href: https://github.com/lucasvoirin/
 ---
+
+Ce blog est construit avec [Quarto](https://quarto.org/), hébergé sur [Github](https://github.com) et déployé avec [Netlify](https://www.netlify.com/).
