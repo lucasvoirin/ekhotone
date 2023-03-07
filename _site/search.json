@@ -14,17 +14,10 @@
     "text": "Ce blog est construit avec Quarto, hébergé sur Github et déployé avec Netlify."
   },
   {
-    "objectID": "articles/test_post/index.html",
-    "href": "articles/test_post/index.html",
-    "title": "Premier article",
-    "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "articles.html",
     "href": "articles.html",
     "title": "ekhotone",
     "section": "",
-    "text": "Articles\n\n\n\n\n\n\n\n\n\n\n\n\nPremier article\n\n\n\n\n\n\n\nnouveautés\n\n\ncode\n\n\nanalyse\n\n\n\n\n\n\n\n\n\n\n\n06/03/2023\n\n\nLucas\n\n\n\n\n\n\nNo matching items"
+    "text": "Articles\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

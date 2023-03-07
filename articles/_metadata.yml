@@ -24,3 +24,7 @@ comments:
     giscus:
       repo: lucasvoirin/ekhotone
       language: fr
+      
+format:
+  html:
+    include-after-body: ../objects/footer.html

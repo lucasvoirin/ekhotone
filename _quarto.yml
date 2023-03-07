@@ -15,12 +15,10 @@ website:
     left:
       - text: À propos de ce blog...
         href: about.qmd
-    right: 
+    right:
       - icon: github
-        href: https://github.com/lucasvoirin/
-      - icon: twitter 
-        href: https://twitter.com/lucas_voirin
-        
+        href: https://github.com/lucasvoirin/ekhotone
+
   twitter-card:
     title: ekhotone
     creator: "@lucas_voirin"

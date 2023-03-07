@@ -1,7 +1,7 @@
 {
-  "hash": "b29b1e7e69225cf6584f46a6165571f8",
+  "hash": "73bd8916c906f933ac6ef34e789f9f53",
   "result": {
-    "markdown": "---\ntitle: \"Premier article\"\ndate: \"2023-03-06\"\ncategories: [nouveautés, code, analyse]\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Premier article\"\ndate: \"2023-03-06\"\ncategories: [nouveautés, code, analyse]\nbibliography: references.bib\n---\n\n\nThis is a post with executable code.\n\n## Titre 2\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n\n\nCeci est une phrase bateau [@blumstein2011; @kershenbaum2019; @mennill2012]. Il y a beaucoup de choses à dire [@mcgregor1997].\n\n## Titre 2\n\n> Test de différentes façon d'écrire.\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
