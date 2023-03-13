@@ -23,6 +23,10 @@ website:
     title: ekhotone
     creator: "@lucas_voirin"
     image: objects/ekhotone_social.png
+  google-analytics: G-28GWGKQLNF
+  cookie-consent:
+    style: headline
+    prefs-text: Gérer les cookies
       
 format:
   html:
